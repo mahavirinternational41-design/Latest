@@ -1,2 +1,0 @@
-# Latest
-Calculate full
